@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+div {
+    border: none;
+    width: max-content;
+}
+
+span {
+    font-size: 50px;
+}
+
+#spade {
+    background-color: rgb(238, 238, 238);
+}
+
+#club {
+    background-color: rgb(238, 238, 238);
+}
+
+#heart {
+    background-color: rgb(238, 238, 238);
+    color: #ff3322;
+}
+
+#diamond {
+    background-color: rgb(238, 238, 238);
+    color: #ff3322;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
