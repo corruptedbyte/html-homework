@@ -1,0 +1,27 @@
+span {
+    color: red;
+}
+
+ul {
+    border: solid 2px;
+    padding-left: 0em;
+}
+
+li {
+    list-style: inside url("icons8-unchecked-checkbox-24.png");
+    background-color: rgb(244, 237, 232);
+}
+
+.checked {
+    list-style: inside url("icons8-checkbox-24.png");
+    background-color: rgb(206, 202, 205);
+}
+
+body {
+    color: rgb(87, 82, 121);
+    background-color: rgb(250, 244, 237);
+}
+
+.centered {
+    text-align: center;
+}

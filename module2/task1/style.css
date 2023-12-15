@@ -1,0 +1,28 @@
+ol {
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 1.5em;
+}
+span {
+    display: inline-block;
+    width: 150px;
+    background-color: #c25c56;
+    text-align: center;
+    size: 30px, 50px;
+}
+
+li {
+    list-style: inside decimal;
+    background-color: #d7827e;
+}
+
+body {
+    font-size: 35px;
+    background-color: rgb(250, 244, 237);
+    color: rgb(87, 82, 121)
+}
+
+.centered {
+    text-align: center;
+}
